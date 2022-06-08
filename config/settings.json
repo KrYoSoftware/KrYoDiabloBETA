@@ -1,0 +1,26 @@
+{
+  "DiabloGeneralSettings": {
+    "GUITheme": "Style 12",
+    "GameRegion": "",
+    "Bot_Email": "",
+    "Bot_UserName": "",
+    "Script_Path": "",
+    "Loop_Macro": false,
+    "Alternative_Input": false,
+    "Record_Mouse_Moves": false,
+    "Record_Mouse_Clicks": false
+  },
+  "DiabloPotsSettings": {
+    "Enable_HP": true,
+    "HP_every": 5,
+    "HP_Precentage": 50,
+    "HP_Slot": "Q"
+  },
+  "DiabloHotkeysSettings": {
+    "AutoPotHotKey": "ALT|2",
+    "ExitHotKey": "ALT|1",
+    "MacroRecordHotKey": "ALT|3",
+    "StopAllMacrosHotKey": "ALT|S",
+    "UseHoldDown": false
+  }
+}
