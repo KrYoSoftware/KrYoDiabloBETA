@@ -1,0 +1,25 @@
+KrYo Software Diablo Immortal 
+Version 1.1.4
+
+We Are Still In BETA & Have Made Great Progress!
+I appreciate Everyones Feedback to Improve The stability Of the Software
+
+***CHANGES***
+
+
++ Bonus Selection Skip + 
++ News Section Embedded With Changes +  
++ Various Tweaks To Rotations + 
++ Discord & Shop Link Added To Software + 
++ Multiple Performance Changes +  
+
+
+***RoadMap***
+- PVP Farm
+- Improved Open World can Method
+- Following Footprints & Auto Leveling / Questing
+- Blacklisting Objects that cause False Pixel Detections
+
+
+
+
