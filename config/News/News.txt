@@ -2,21 +2,18 @@ KrYo Software Diablo Immortal
 Version 1.1.4
 
 We Are Still In BETA & Have Made Great Progress!
-I appreciate Everyones Feedback to Improve The stability Of the Software
+I appreciate Everyones Feedback to Improve The stability
 
 ***CHANGES***
-
-
 + Bonus Selection Skip +
 + News Section Embedded With Changes +
 + Various Tweaks To Rotations +
 + Discord & Shop Link Added To Software +
 + Multiple Performance Changes +
 
-
-***RoadMap***
-- RIFT Farm Melee / Ranged Option ( Preventing Ranged From Being In Melee)
-- PVP Farm
-- Improved Open World can Method
-- Following Footprints & Auto Leveling / Questing
-- Blacklisting Objects that cause False Pixel Detections
+***ROADMAP***
+- RIFT Farm Melee / Ranged Option ( Preventing Ranged From Being In Melee) -
+- PVP Farm-
+- Improved Open World can Method -
+- Following Footprints & Auto Leveling / Questing -
+- Blacklisting Objects that cause False Pixel Detections -
