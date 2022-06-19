@@ -4,6 +4,7 @@ Version 1.1.4 BETA
 I Appreciate Everyones Feedback to Improve The stability
 
 ***CHANGES***
+Added AutoReconnect
 Bonus Selection Skip
 News Section Embedded With Changes
 Various Tweaks To Rotations
