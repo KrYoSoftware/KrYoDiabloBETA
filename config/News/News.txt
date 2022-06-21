@@ -1,15 +1,15 @@
 KrYo Software Diablo Immortal
-Version 1.1.4 BETA
+Version 1.1.6 BETA
 
 I Appreciate Everyones Feedback to Improve The stability
 
 ***CHANGES***
-Added AutoReconnect
-Bonus Selection Skip
-News Section Embedded With Changes
-Various Tweaks To Rotations
-Discord & Shop Link Added To Software
-Multiple Performance Changes
+Added EXP Globe Pickup Addon V2
+Fixed Double ESC
+Will NOT click behind Rift & Go on Joy walks
+No more mouse stuttering ( Some Had Issues With
+Added Auto Reconnect
+Added ESC Logic When Rift Can Not Be clicked (Fixed)
 
 ***ROADMAP***
 RIFT Farm Melee / Ranged Option ( Preventing Ranged From Being In Melee)
