@@ -1,5 +1,6 @@
 # KrYoDiabloBETA
-+ RELEASE OF TEST 1.1.7!
++ RELEASE OF TEST 1.1.8!
++ Fixed Rift Entry
 + Fixed Double ESC
 + Will NOT click behind Rift & Go on Joy walks
 + No more mouse stuttering ( Some Had Issues With
