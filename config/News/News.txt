@@ -1,12 +1,12 @@
 KrYo Software Diablo Immortal
-Version 1.1.8 BETA
+Version 1.1.9 BETA
 
 ***NOTE TO RIFT USERS!***
 UNCHECK HP & DO NOT USE AUTO POT
 DO NOT LOAD ANY MACROS / ROTATIONS WHILE RIFTING!
 
 ***CHANGES***
-Optimized RIFT Enter Method
+Optimized RIFT Enter Method (Fingers Crossed)
 Added EXP Globe Pickup Embedded ( DONT LOAD PLUGIN)
 Added RIFT Nearest & Farthest Following
 No more mouse stuttering ( Some Had Issues With
