@@ -1,10 +1,12 @@
 # KrYoDiabloBETA
+KrYoDiabloV1.1.9
 
 ***NOTE TO RIFT USERS!***
 UNCHECK HP & DO NOT USE AUTO POT
 DO NOT LOAD ANY MACROS / ROTATIONS WHILE RIFTING!
 
 ***CHANGES***
+New Default Method TO Navigation
 Optimized RIFT Enter Method
 Added EXP Globe Pickup Embedded ( DONT LOAD PLUGIN)
 Added RIFT Nearest & Farthest Following
