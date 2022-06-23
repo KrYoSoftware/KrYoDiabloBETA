@@ -1,11 +1,10 @@
 # KrYoDiabloBETA
-KrYoDiabloV1.2.0
+KrYoDiabloV1.2.1
 
-***NOTE TO RIFT USERS!***
-UNCHECK HP & DO NOT USE AUTO POT
-DO NOT LOAD ANY MACROS / ROTATIONS WHILE RIFTING!
 
 ***CHANGES***
+Added Check If In Range Of Rift ( Also Replaces ESC Script)
+New Logic To Auto Potion In Rift!
 New Default Method TO Navigation
 Optimized RIFT Enter Method
 Added EXP Globe Pickup Embedded ( DONT LOAD PLUGIN)

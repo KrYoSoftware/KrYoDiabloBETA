@@ -1,11 +1,10 @@
 KrYo Software Diablo Immortal
-Version 1.2.0 BETA
-
-***NOTE TO RIFT USERS!***
-UNCHECK HP & DO NOT USE AUTO POT
-DO NOT LOAD ANY MACROS / ROTATIONS WHILE RIFTING!
+Version 1.2.1 BETA
 
 ***CHANGES***
+Added Check If In Range Of Rift ( Also Replaces ESC Script)
+New Logic To Auto Potion In Rift!
+
 Added New Rift Navigation (DEFAULT)
 Optimized RIFT Enter Method (Fingers Crossed)
 Added EXP Globe Pickup Embedded ( DONT LOAD PLUGIN)
