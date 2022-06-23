@@ -1,5 +1,5 @@
 # KrYoDiabloBETA
-KrYoDiabloV1.1.9
+KrYoDiabloV1.2.0
 
 ***NOTE TO RIFT USERS!***
 UNCHECK HP & DO NOT USE AUTO POT
