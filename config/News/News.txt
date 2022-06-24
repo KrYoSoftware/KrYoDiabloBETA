@@ -1,20 +1,18 @@
 KrYo Software Diablo Immortal
-Version 1.2.1 BETA
+Version 1.2.2 BETA
 
 ***CHANGES***
-Added Check If In Range Of Rift ( Also Replaces ESC Script)
+Added Check If In Range Of Rift ( Also Replaces ESC Bug)
+Added RIFT ANTI-STUCK Logic
+Added Aim Mobs Function ( In Script Maker )
+Added Write To Log Function ( In Script Maker )
+Added Check If The Health Bar Belongs To Sentry Or Player
+Optimized RIFT Logic
 New Logic To Auto Potion In Rift!
-
-Added New Rift Navigation (DEFAULT)
-Optimized RIFT Enter Method (Fingers Crossed)
+New Default Method TO Navigation
+Optimized RIFT Enter Method
 Added EXP Globe Pickup Embedded ( DONT LOAD PLUGIN)
 Added RIFT Nearest & Farthest Following
 No more mouse stuttering ( Some Had Issues With
 Added Auto Reconnect
 Added ESC Logic When Rift Can Not Be clicked (Fixed)
-
-***ROADMAP***
-RIFT Farm Melee / Ranged Option ( Preventing Ranged From Being In Melee)
-Improved Open World scan Method
-Following Footprints & Auto Leveling / Questing
-Blacklisting Objects that cause False Pixel Detections
