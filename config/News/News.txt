@@ -1,7 +1,9 @@
 KrYo Software Diablo Immortal
-Version 1.2.2 BETA
+Version 1.2.3 BETA
 
 ***CHANGES***
+Added Auto Updater
+Added Faster Rift Spawn
 Added Check If In Range Of Rift ( Also Replaces ESC Bug)
 Added RIFT ANTI-STUCK Logic
 Added Aim Mobs Function ( In Script Maker )

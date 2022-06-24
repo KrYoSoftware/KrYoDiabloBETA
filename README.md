@@ -1,8 +1,9 @@
 # KrYoDiabloBETA
-KrYoDiabloV1.2.2
+KrYoDiabloV1.2.3
 
 
 ***CHANGES***
+Added Faster Rift Spawn
 Added Check If In Range Of Rift ( Also Replaces ESC Bug)
 Added RIFT ANTI-STUCK Logic
 Added Aim Mobs Function ( In Script Maker )
