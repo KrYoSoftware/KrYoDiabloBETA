@@ -1,5 +1,5 @@
 KrYo Software Diablo Immortal
-Version 1.2.3 BETA
+Version 1.2.5 BETA
 
 ***CHANGES***
 Added Auto Updater
