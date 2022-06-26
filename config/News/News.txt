@@ -1,7 +1,10 @@
 KrYo Software Diablo Immortal
-Version 1.2.5 BETA
+Version 1.2.7 BETA
 
 ***CHANGES***
+Added Mob Detection to Rift
+Added Loading screen Detection
+Minor Adjustments
 Added Auto Updater
 Added Faster Rift Spawn
 Added Check If In Range Of Rift ( Also Replaces ESC Bug)
