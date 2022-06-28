@@ -1,5 +1,5 @@
 # KrYoDiabloBETA
-KrYoDiabloV1.3.2
+KrYoDiabloV 1.3.2
 
 
 ***CHANGES***
