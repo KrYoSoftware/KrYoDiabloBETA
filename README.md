@@ -1,10 +1,10 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.3.2
+KrYoDiabloV 1.3.3 
 
 
 ***CHANGES***
-Changed Leaving Rift Logic
-Re-Added Fixed All Class Rotations ( Rift )
-Added Multiple New Farm / Addon Scripts To Core
-Added Loading screen Detection
-Optimized RIFT ANTI-STUCK Logic
++ Added Map Hook Index
++ Added Number Of Scans Before Moving 
++ Added Number Of Scans While Attacking
++ Added Emebedded Rotations to farm with
++ Added Auto Farm START / STOP
