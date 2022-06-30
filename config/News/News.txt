@@ -1,7 +1,8 @@
 KrYo Software Diablo Immortal
-Version 1.3.5 BETA
+Version 1.3.6 BETA
 
 ***CHANGES***
++ Users can ONLY use the most recent Updates
 + Randomize Bot File Size & Randomized process Name (Extra Layer Of Security)
 + Added Auto Salvage / Will Auto Navigate & Salvage after amount of time you choose!
 + Added Map Hook Index
