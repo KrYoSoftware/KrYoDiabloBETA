@@ -1,9 +1,10 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.3.9 
+KrYoDiabloV 1.4.1
 
 
 ***CHANGES***
-+ Randomize Bot File Size & Name
++ VM Support ( Hyper-V) - Run Software On Local PC & Hook To Hyper-V ( Very Safe Method )
++ Randomize Bot File Size & Name ( Optimized )
 + Added Auto Salvage / Will Auto Navigate & Salvage after amount of time you choose!
 + Added Map Hook Index
 + Added Number Of Scans Before Moving 
