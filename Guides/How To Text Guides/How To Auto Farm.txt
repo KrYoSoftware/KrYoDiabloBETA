@@ -1,0 +1,27 @@
+
+Ingame:
+Open map
+Click the search/legend button
+Click the legend waypoint in search (1.2.3.4 or whatever) to center the map to this waypoint
+
+In bot:
+Click green mark
+Go in-game map ,opened like above and then f3 click your farming points you want (you need to have map centered on nearest waypoint)
+Than escape to save
+Start running bot
+
+In bot the buttons 1.2.3.4. stand for the waypoint locations in search tab in-game.
+1 is the first
+2 the second
+3 the third
+And so on
+
+You can make a extreme farming route in one zone, cause you have much enough waypoints you can set with f3.
+
+Bot will automatically randomize the mouse licks after you started, so it's not exactly the same and also not exactly your route.
+
+Macros i run with the bot:
+scan attack resume navi
+TK revive
+TK 50% HP backup
+TK declineall

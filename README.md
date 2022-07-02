@@ -1,6 +1,5 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.4.1
-
+KrYoDiabloV 1.4.2
 
 ***CHANGES***
 + VM Support ( Hyper-V) - Run Software On Local PC & Hook To Hyper-V ( Very Safe Method )
