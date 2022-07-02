@@ -1,9 +1,9 @@
 KrYo Software Diablo Immortal
-Version 1.3.9 BETA
+Version 1.4.3 BETA
 
 ***CHANGES***
-+ Users can ONLY use the most recent Updates
-+ Randomize Bot File Size & Randomized process Name (Extra Layer Of Security)
++ VM Support ( Hyper-V) - Run Software On Local PC & Hook To Hyper-V ( Very Safe Method )
++ Randomize Bot File Size & Name ( Optimized )
 + Added Auto Salvage / Will Auto Navigate & Salvage after amount of time you choose!
 + Added Map Hook Index
 + Added Number Of Scans Before Moving
