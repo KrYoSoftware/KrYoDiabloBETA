@@ -1,7 +1,8 @@
 KrYo Software Diablo Immortal
-Version 1.4.3 BETA
+Version 1.4.6 BETA
 
 ***CHANGES***
++ Various Bug Reports Fixed
 + VM Support ( Hyper-V) - Run Software On Local PC & Hook To Hyper-V ( Very Safe Method )
 + Randomize Bot File Size & Name ( Optimized )
 + Added Auto Salvage / Will Auto Navigate & Salvage after amount of time you choose!
