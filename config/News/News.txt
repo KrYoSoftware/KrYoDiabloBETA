@@ -1,13 +1,11 @@
 KrYo Software Diablo Immortal
-Version 1.4.6 BETA
+Version 1.5.3 BETA
 
 ***CHANGES***
-+ Various Bug Reports Fixed
-+ VM Support ( Hyper-V) - Run Software On Local PC & Hook To Hyper-V ( Very Safe Method )
-+ Randomize Bot File Size & Name ( Optimized )
-+ Added Auto Salvage / Will Auto Navigate & Salvage after amount of time you choose!
-+ Added Map Hook Index
-+ Added Number Of Scans Before Moving
-+ Added Number Of Scans While Attacking
-+ Added Emebedded Rotations to farm with
-+ Added Auto Farm START / STOP
++ UI Changes to Adapt To New Options
++ Added Auto Salvage Rift In Rift
++ Added Auto Salvage Every xx Mins Before Rift If salvage Inside Rift Fails
++ Added Number Of Scans While Navigating
++ Optimized Number Of Scans While Attacking
++ Optimized Number Of Scans While Moving
++ Optimized Scanning for enemies Via Rift & Auto Farm
