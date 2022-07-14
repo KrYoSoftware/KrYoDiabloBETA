@@ -1,8 +1,15 @@
 KrYo Software Diablo Immortal
-Version 1.5.3 BETA
+Version 1.5.5 BETA
 
 ***CHANGES***
++ Initial check for the first 10 secs to follow the moving player
++ Added Decline invites
++ Fixed salvaging when higher grade equipment item in the Inventory, bot will force salvage.
++ NPC salvage timer will now reset if bot successfully salvaged items inside rift
++ Auto Updater Changes
++ Create Secure Changes
 + UI Changes to Adapt To New Options
++ Added Horadric Alter / Horadric Bestiary To Farming
 + Added Auto Salvage Rift In Rift
 + Added Auto Salvage Every xx Mins Before Rift If salvage Inside Rift Fails
 + Added Number Of Scans While Navigating
