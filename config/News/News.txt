@@ -1,5 +1,5 @@
 KrYo Software Diablo Immortal
-Version 1.5.5 BETA
+Version 1.6.0 BETA
 
 ***CHANGES***
 + Initial check for the first 10 secs to follow the moving player

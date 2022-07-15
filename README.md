@@ -1,5 +1,5 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.5.5
+KrYoDiabloV 1.6.0
 
 ***CHANGES***
 + Initial check for the first 10 secs to follow the moving player
