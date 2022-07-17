@@ -1,5 +1,5 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.6.6
+KrYoDiabloV 1.6.9
 
 ***CHANGES***
 
