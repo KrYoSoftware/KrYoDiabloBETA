@@ -1,10 +1,10 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.7.1
+KrYoDiabloV 1.7.5
 
 ***CHANGES***
-+ Fix looping rift problem for some users
-+ Added Function (Dont Leave Party) - For MultiBox Users Rifting on multiple Characters
-+ OverAll Rift Speed Increased ( Fixed Previous Bugs )
-+ Added Sub Tabs Under Rift Tab
-+ Increased Speed of auto Updating
-+ Anti Stuck Changes ( BETA )
++ Support for pausing between Rift cycles
++ Support for selecting salvage items grades
++ Added Successful Rift Counter To Log 
++ Added Remove Disconnected Players
++ Added Dont Leave Party
++ Added Check Kicked
