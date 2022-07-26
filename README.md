@@ -1,5 +1,5 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.8.8
+KrYoDiabloV 1.9.2
 
 ***CHANGES***
 + Added  The ability to specify the maximum distance before the bot starts to follow the player (Default bot value is 250)
