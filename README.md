@@ -1,17 +1,12 @@
 # KrYoDiabloBETA
-KrYoDiabloV 1.9.2
+KrYoDiabloV 2.0.0
 
 ***CHANGES***
-+ Added  The ability to specify the maximum distance before the bot starts to follow the player (Default bot value is 250)
-+ Added  Bot API for CD check
-+ Fixed  Horadric Bestiary
-+ Improved Rift Joining And Response To Different Scenarios 
-+ Added Optimized AnyBuild Rift / Farm
-+ Added Optimized Necromancer Rift / Farm Builds
-+ Added Optimized Crusader Rift / Farm Builds
-+ Support for pausing between Rift cycles
-+ Support for selecting salvage items grades
-+ Added Successful Rift Counter To Log 
-+ Added Remove Disconnected Players
-+ Added Don't Leave Party
-+ Added Check Kicked
++ Notification / Invite Fixes
++ Completely reworked rift
++ Improved Salvaging inside rift
++ Improved Bonus Selection
++ Bot will now accept / suggested player invites to rift groups / decline other requests
++ The ability to specify the maximum distance before the bot starts to follow the player (Default bot value is 250)
++ Horadric Bestiary Fixed
++ Rift Joining And Response ToDifferent Scenarios 
