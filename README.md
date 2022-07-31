@@ -1,7 +1,10 @@
 # KrYoDiabloBETA
-KrYoDiabloV 2.0.0
+KrYoDiabloV 2.0.7
 
 ***CHANGES***
++ Anybuild Update
++ Added Scheduler for Rift / Farm
++ Many Optimizations
 + Notification / Invite Fixes
 + Completely reworked rift
 + Improved Salvaging inside rift
