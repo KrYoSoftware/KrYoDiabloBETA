@@ -1,15 +1,6 @@
-KrYo Software Diablo Immortal
-Version 2.0.7
+◣KrYo Software Diablo Immortal◢
+Version 2.1.0
 
-***CHANGES***
-+ Anybuild Update
-+ Added Scheduler for Rift / Farm
-+ Many Optimizations
-+ Notification / Invite Fixes
-+ Completely reworked rift
-+ Improved Salvaging inside rift
-+ Improved Bonus Selection
-+ Bot will now accept / suggested player invites to rift groups / decline other requests
-+ The ability to specify the maximum distance before the bot starts to follow the player (Default bot value is 250)
-+ Horadric Bestiary Fixed
-+ Rift Joining And Response ToDifferent Scenarios
+Please Read The FAQ Via Discord!
+DO NOT FORGET TO USE THE (SECURE YOUR APP FUNCTION!)
+-<3 KrYo-
