@@ -1,6 +1,9 @@
 ◣KrYo Software Diablo Immortal◢
 Please Read The FAQ Via Discord!
- ( If Done Properly You should have no issues)
-For Remote ANYDESK Assistance Please Open A Ticket & Request A Mod for Support
-@Technique / @PThagaard / @Sycksyn / @OctoM
-( Hands Free Set Up Is A FEE If Remote set Up is Requested)
+
+New method of Loading Software
+
+1. Start Game To window Mode
+2. Set Game To Full Screen
+3. Load Software!
+4. Enjoy!
