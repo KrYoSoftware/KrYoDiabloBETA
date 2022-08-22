@@ -1,3 +1,3 @@
 # KrYoDiabloBETA
-KrYoDiabloV 2.1.9
+KrYoDiabloV 2.2.2
 
